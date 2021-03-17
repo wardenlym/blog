@@ -1,0 +1,15 @@
+baseURL = "http://wardenlym.github.io/"
+languageCode = "zh-CN"
+title = "Re: Life;"
+
+theme = "hyde-hyde"
+highlightjs = true
+
+[params.social]
+  twitter = "wardenlym"
+  keybase = "wardenlym"
+  github = "wardenlym"
+  gravatar = "wardenlym@gmail.com"
+
+[params]
+  description = "Your custom description"
